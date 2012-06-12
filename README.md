@@ -17,3 +17,7 @@ Then put this script somewhere useful, like:
 
     $ chmod +x landslide_watch.py
     $ mv landslide_watch.py ~/bin/landslide_watch
+
+# Usage
+
+    $ landslide_watch file
